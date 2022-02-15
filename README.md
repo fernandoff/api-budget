@@ -1,5 +1,7 @@
 # API Budget - proposta.app
 
+## Laravel, Octane, GraphQL, Typescript
+
 ## Credits
 
 - [Leandro Henrique](https://github.com/emtudo)
